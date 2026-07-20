@@ -16,7 +16,7 @@ export default function ContactPage() {
             Have a question about our products, shipping, or returns? We're here to help! Fill out the form and our team will get back to you as soon as possible.
           </p>
           
-          
+          <h1>g</h1>
           <div className="space-y-6 text-gray-700">
             <div className="flex items-center gap-4">
               <div className="w-12 h-12 bg-orange-50 text-orange-500 rounded-full flex items-center justify-center">
